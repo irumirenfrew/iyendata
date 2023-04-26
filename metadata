@@ -1,5 +1,6 @@
 IrumiSystem.InternetPosterBoard v0.1 2023-04-23T12:00:00
-settings next=Random,timer=10
+settings showcontrol=True,next=Random,timer=10
 00
 01
 02
+ff
