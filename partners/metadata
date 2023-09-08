@@ -4,4 +4,5 @@ settings showcontrol=True,next=Sequence,timer=10
 01 frame.r=5.992157,frame.g=3.639216,frame.b=2.415686,comment=mahomaidcafe
 02 frame.r=1.992157,frame.g=3.639216,frame.b=5.415686,comment=sangjan
 03 frame.r=2.992157,frame.g=2.639216,frame.b=4.415686,comment=catfarm
+03 frame.r=1.992157,frame.g=2.639216,frame.b=4.415686,comment=roleplaycomm
 ff frame.r=0,frame.g=3.937,frame.b=0.423,comment=ads
