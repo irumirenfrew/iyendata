@@ -7,4 +7,5 @@ settings showcontrol=True,next=Sequence,timer=10
 04 frame.r=2,frame.g=2.639,frame.b=4.415,comment=roleplaycomm
 05 frame.r=6,frame.g=2.639,frame.b=3.415,comment=poringmaid
 06 frame.r=4,frame.g=2.639,frame.b=5.415,comment=baronmaid
+07 frame.r=4,frame.g=2.639,frame.b=5.415,comment=aikofantasia
 ff frame.r=0,frame.g=3.937,frame.b=0.423,comment=ads
