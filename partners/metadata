@@ -10,4 +10,5 @@ settings showcontrol=True,next=Sequence,timer=10
 07 frame.r=4,frame.g=2.639,frame.b=5.415,comment=aikofantasia
 08 frame.r=4,frame.g=2.639,frame.b=5.415,comment=malitarot
 09 frame.r=4,frame.g=2.639,frame.b=5.415,comment=lorilam
+0A frame.r=4,frame.g=4,frame.b=1.5,comment=versetheverse,expires=2024-12-06
 ff frame.r=0,frame.g=3.937,frame.b=0.423,comment=ads
